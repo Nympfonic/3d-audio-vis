@@ -3,9 +3,9 @@
 This was done as a mini project for a module called Advanced Audio-Visual Processing
 
 Requirements for building on Windows:
-- Visual Studio
-- openFrameworks v10.1+
-- ofxMaxim addon for openFrameworks
+- Visual Studio 2019
+- [openFrameworks v10.1+](https://openframeworks.cc)
+- [ofxMaxim addon for openFrameworks](https://github.com/micknoise/Maximilian)
 
 Instructions on how to build on Windows:
 
